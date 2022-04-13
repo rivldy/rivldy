@@ -5,4 +5,4 @@ I'm currently learning about Firebase (Database and Authentication), I hope some
 
 My hobbies are of course coding, playing video games, watching football matches ⚽️
 
-I hope someday have the same hobby as me, hahaha
+I hope one day I have friends with the same hobbies as me, hahaha
